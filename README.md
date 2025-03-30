@@ -32,7 +32,7 @@ Aplikasi ini adalah program sederhana untuk mengelola informasi tiket kereta api
 ## Catatan
 
 * Aplikasi ini merupakan implementasi antarmuka pengguna dasar untuk pengelolaan tiket kereta api.
-* Fungsionalitas penyimpanan data yang sebenarnya (ke file, database, dll.) tidak terlihat secara eksplisit dalam tangkapan layar ini.
+* Fungsionalitas penyimpanan data yang sebenarnya (ke file, database, dll.) 
 * Mekanisme untuk melihat daftar tiket yang sudah ada tidak tampak dalam antarmuka saat ini.
 
 ## Pengembangan Lebih Lanjut
