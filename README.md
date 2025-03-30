@@ -29,24 +29,5 @@ Aplikasi ini adalah program sederhana untuk mengelola informasi tiket kereta api
     * (Diasumsikan ada mekanisme pemilihan tiket yang ingin dihapus).
     * Klik tombol "Delete" untuk menghapus informasi tiket.
 
-## Catatan
 
-* Aplikasi ini merupakan implementasi antarmuka pengguna dasar untuk pengelolaan tiket kereta api.
-* Fungsionalitas penyimpanan data yang sebenarnya (ke file, database, dll.) 
-* Mekanisme untuk melihat daftar tiket yang sudah ada tidak tampak dalam antarmuka saat ini.
 
-## Pengembangan Lebih Lanjut
-
-Beberapa ide untuk pengembangan di masa depan:
-
-* Implementasi penyimpanan data yang persisten.
-* Menambahkan fitur untuk melihat daftar semua tiket yang tersimpan.
-* Fungsi pencarian dan pemfilteran tiket.
-* Validasi input untuk memastikan data yang dimasukkan benar.
-* Desain antarmuka pengguna yang lebih intuitif dan lengkap.
-* Integrasi dengan sistem pemesanan atau informasi jadwal kereta api.
-
-## Informasi Tambahan
-
-* Tangkapan layar menunjukkan antarmuka pengguna (UI) dari aplikasi "Tiket Train".
-* Gambar kereta yang ditampilkan kemungkinan adalah ilustrasi dan mungkin tidak secara langsung terkait dengan data tiket.
