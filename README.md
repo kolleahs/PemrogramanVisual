@@ -16,7 +16,7 @@ Aplikasi ini adalah program sederhana untuk mengelola informasi tiket kereta api
 1.  **Jalankan Aplikasi:** Buka aplikasi "Tiket Train".
 2.  **Tambah Tiket:**
     * Isi kolom "No" dengan nomor tiket.
-    * Pilih tanggal keberangkatan melalui kontrol "Date" (saat ini diatur ke Minggu, 30 Maret 2025).
+    * Pilih tanggal keberangkatan melalui kontrol "Date" 
     * Masukkan stasiun keberangkatan pada kolom "From".
     * Masukkan stasiun tujuan pada kolom "Destination".
     * Klik tombol "Add" untuk menambahkan informasi tiket baru.
