@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/6682c01b-371c-4d83-a070-4212ee6dcc01)
-
+https://www.figma.com/design/AobeGANgW9WI5lHL45Gsgn/Figma-basics?node-id=603-9&t=iQ0prylWM2OrH68H-4
 LINK DESAIN FIGMA : https://www.figma.com/design/AobeGANgW9WI5lHL45Gsgn/Figma-basics?node-id=1669-162202&t=CYJNvtjnY2euLyDw-1
 
 
