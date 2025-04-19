@@ -1,21 +1,7 @@
+## PemrogramanVisual 
 ## Aplikasi Tiket Kereta Api Sederhana
-LINK DESAIN FIGMA : https://www.figma.com/design/AobeGANgW9WI5lHL45Gsgn/Figma-basics?node-id=1669-162202&t=CYJNvtjnY2euLyDw-1
+## LINK DESAIN FIGMA : https://www.figma.com/design/AobeGANgW9WI5lHL45Gsgn/Figma-basics?node-id=1669-162202&t=CYJNvtjnY2euLyDw-1
 ![Screenshot 2025-04-19 173507](https://github.com/user-attachments/assets/5d4f7687-5c97-4fd8-a2f0-ab86000f9588)
-
-
-https://www.figma.com/proto/AobeGANgW9WI5lHL45Gsgn/Figma-basics?node-id=603-9&t=oYSCNA5Ayrs5VxU2-0&scaling=contain&content-scaling=fixed&page-id=1669%3A162202
-https://www.figma.com/design/AobeGANgW9WI5lHL45Gsgn/Figma-basics?node-id=603-9&t=iQ0prylWM2OrH68H-4
-
-
-
-
-
-
-
-
-
-
-# PemrogramanVisual 
 
 Aplikasi ini adalah program sederhana untuk mengelola informasi tiket kereta api. Pengguna dapat menambahkan, menyimpan, memperbarui, dan menghapus data tiket.
 
