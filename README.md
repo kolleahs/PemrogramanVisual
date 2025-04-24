@@ -5,32 +5,110 @@
 
 Aplikasi ini adalah program sederhana untuk mengelola informasi tiket kereta api. Pengguna dapat menambahkan, menyimpan, memperbarui, dan menghapus data tiket.
 
-## Fitur
+#  Aplikasi Pemesanan Tiket Kereta Api - C# WinForms
 
-* **Menampilkan Informasi Tiket:** Antarmuka sederhana untuk memasukkan dan melihat detail tiket seperti Nomor, Tanggal, Stasiun Keberangkatan (From), dan Stasiun Tujuan (Destination).
-* **Tambah Tiket:** Memungkinkan pengguna untuk menambahkan informasi tiket baru melalui kolom input yang tersedia dan tombol "Add".
-* **Simpan Data:** Menyimpan informasi tiket yang telah ditambahkan atau diubah dengan menekan tombol "Save".
-* **Perbarui Data:** Memungkinkan pengguna untuk mengedit informasi tiket yang sudah ada dan menyimpan perubahannya melalui tombol "Update".
-* **Hapus Data:** Memungkinkan pengguna untuk menghapus informasi tiket yang ada dengan menekan tombol "Delete".
-* **Visualisasi Kereta:** Menampilkan gambar kereta sebagai representasi visual.
+##  Tujuan Aplikasi
+Aplikasi desktop ini dibuat untuk:
+- Memesan tiket kereta api
+- Melihat dan mengelola data perjalanan
+- Melihat daftar tiket
+- Mencetak tiket
+- Menyediakan antarmuka pengguna sederhana berbasis Windows Forms
 
-## Cara Penggunaan
+---
 
-1.  **Jalankan Aplikasi:** Buka aplikasi "Tiket Train".
-2.  **Tambah Tiket:**
-    * Isi kolom "No" dengan nomor tiket.
-    * Pilih tanggal keberangkatan melalui kontrol "Date" 
-    * Masukkan stasiun keberangkatan pada kolom "From".
-    * Masukkan stasiun tujuan pada kolom "Destination".
-    * Klik tombol "Add" untuk menambahkan informasi tiket baru.
-    * Klik tombol "Save" untuk menyimpan data tiket.
-3.  **Perbarui Tiket:**
-    * (Diasumsikan ada mekanisme pemilihan tiket yang ingin diubah, meskipun tidak terlihat jelas di UI).
-    * Setelah tiket dipilih, ubah informasi yang diperlukan pada kolom "No", "Date", "From", atau "Destination".
-    * Klik tombol "Update" untuk menyimpan perubahan.
-4.  **Hapus Tiket:**
-    * (Diasumsikan ada mekanisme pemilihan tiket yang ingin dihapus).
-    * Klik tombol "Delete" untuk menghapus informasi tiket.
+##  Teknologi
+- Bahasa: **C#**
+- Platform: **WinForms (Windows Forms)**
+- IDE: **Visual Studio 2022**
+- Database: **SQL Server / SQLite / File Lokal**
+
+---
+
+##  Struktur Project (6 Form Utama)
+
+### 1.  Form Login
+**Komponen:**
+- TextBox: Username, Password
+- Button: Login, Exit
+
+**Fitur:**
+- Validasi login (berbasis database atau file lokal)
+- Arahkan ke **Main Menu** jika berhasil login
+
+---
+
+### 2.  Form Main Menu (Dashboard)
+**Komponen:**
+- Label: Selamat datang
+- Button Navigasi:
+  - Pemesanan Tiket
+  - Data Perjalanan
+  - Daftar Tiket
+  - Cetak Tiket
+  - Logout
+
+**Fitur:**
+- Navigasi menuju form lainnya
+
+---
+
+### 3.  Form Pemesanan Tiket
+**Komponen:**
+- TextBox: Nomor Tiket, Nama Penumpang
+- DateTimePicker: Tanggal Keberangkatan
+- ComboBox: Stasiun Asal, Stasiun Tujuan, Kelas (Ekonomi, Bisnis, Eksekutif)
+- NumericUpDown: Jumlah Penumpang
+- Button: Hitung Harga, Simpan
+
+**Fitur:**
+- Perhitungan harga otomatis berdasarkan kelas dan jumlah penumpang
+- Simpan data ke database
+
+---
+
+### 4.  Form Data Perjalanan (CRUD)
+**Komponen:**
+- DataGridView: Menampilkan data perjalanan
+- TextBox/ComboBox: Nama Kereta, Rute, Harga, Jadwal
+- Button: Add, Update, Delete
+
+**Fitur:**
+- CRUD (Create, Read, Update, Delete) data perjalanan
+
+---
+
+### 5.  Form Daftar Tiket
+**Komponen:**
+- DataGridView: Menampilkan daftar tiket
+- TextBox: Cari tiket berdasarkan nama penumpang atau tujuan
+
+**Fitur:**
+- Pencarian dan filter tiket
+- Lihat detail tiket
+
+---
+
+### 6. 🖨 Form Cetak Tiket
+**Komponen:**
+- ComboBox: Pilih nomor tiket
+- Label: Menampilkan info tiket
+- Button: Cetak Tiket
+
+**Fitur:**
+- Preview dan cetak tiket menggunakan `PrintDocument`
+
+---
+
+##  Catatan Tambahan
+- Pastikan koneksi database telah dikonfigurasi.
+- Gunakan teknik data binding untuk efisiensi pengelolaan data antar form.
+- Struktur project bisa dikembangkan lagi dengan menambahkan fitur login role-based, export data ke PDF, dan pengelolaan admin.
+
+---
+
+
+
 
 
 
