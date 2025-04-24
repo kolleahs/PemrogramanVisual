@@ -17,11 +17,6 @@ Aplikasi desktop ini dibuat untuk:
 
 ---
 
-##  Teknologi
-- Bahasa: **C#**
-- Platform: **WinForms (Windows Forms)**
-- IDE: **Visual Studio 2022**
-- Database: **SQL Server / SQLite / File Lokal**
 
 ---
 
@@ -89,7 +84,7 @@ Aplikasi desktop ini dibuat untuk:
 
 ---
 
-### 6. 🖨 Form Cetak Tiket
+### 6.  Form Cetak Tiket
 **Komponen:**
 - ComboBox: Pilih nomor tiket
 - Label: Menampilkan info tiket
@@ -100,12 +95,6 @@ Aplikasi desktop ini dibuat untuk:
 
 ---
 
-##  Catatan Tambahan
-- Pastikan koneksi database telah dikonfigurasi.
-- Gunakan teknik data binding untuk efisiensi pengelolaan data antar form.
-- Struktur project bisa dikembangkan lagi dengan menambahkan fitur login role-based, export data ke PDF, dan pengelolaan admin.
-
----
 
 
 
