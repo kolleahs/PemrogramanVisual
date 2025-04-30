@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\bin\Debug\tiketkeretaapi.exe.config
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\bin\Debug\tiketkeretaapi.exe
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\bin\Debug\tiketkeretaapi.pdb
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\obj\Debug\tiketkeretaapi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\obj\Debug\tiketkeretaapi.Form1.resources
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\obj\Debug\tiketkeretaapi.PemesananTiket.resources
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\obj\Debug\tiketkeretaapi.Properties.Resources.resources
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\obj\Debug\tiketkeretaapi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\obj\Debug\tiketkeretaapi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\obj\Debug\tiketkeretaapi.exe
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\obj\Debug\tiketkeretaapi.pdb
+C:\Users\user\source\repos\tiketkeretaapi\tiketkeretaapi\obj\Debug\tiketkeretaapi.Data_Pemesanan.resources
