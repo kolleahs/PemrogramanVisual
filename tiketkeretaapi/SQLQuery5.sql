@@ -1,8 +1,0 @@
-SELECT TOP (1000) [ID]
-      ,[NamaPenumpang]
-      ,[TanggalKeberangkatan]
-      ,[StasiunAsal]
-      ,[StasiunTujuan]
-      ,[Kelas]
-      ,[JumlahPenumpang]
-  FROM [tiketkeretaapi].[dbo].[PemesananTiket]
